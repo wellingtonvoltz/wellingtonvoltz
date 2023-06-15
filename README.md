@@ -9,7 +9,7 @@
     📞 Para entrar em contato comigo basta mandar um email para o seguinte endereço: wellington.a.voltz@gmail.com ou para (51)995238525.
 
 
-Ferramentas e Técnologias:
+Ferramentas e Tecnologias:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
