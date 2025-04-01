@@ -10,7 +10,7 @@
   
   🎮 Já criei alguns jogos e alguns projetos na linguagem Java e JavaScript.
   
-  📞 Para entrar em contato comigo basta mandar um email para o seguinte endereço: wellington.a.voltz@gmail.com ou para (51)995238525.
+  📞 Para entrar em contato comigo basta mandar um email para o seguinte endereço: wellington_voltz@hotmail.com ou para (51)995238525.
   
 
 
